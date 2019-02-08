@@ -1,0 +1,10 @@
+body {
+    
+    background-image: url(/home/newton/Documents/moringa/ip/sparkling_heart-other.jpg);
+    background-size: cover;
+}
+h1 {
+    color: rgb(189, 164, 164);
+    text-align: center;
+    font-style: italic;
+}
